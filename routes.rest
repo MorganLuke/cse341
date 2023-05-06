@@ -69,7 +69,7 @@ content-type: application/json
 
 # Update a Contact
 ###
-PUT https://lukecse341.onrender.com/contacts/64558e18632523d2e3a52dc1 HTTP/1.1
+PUT https://lukecse341.onrender.com/contacts/6456d88d8e52761e61252765 HTTP/1.1
 content-type: application/json
 
 {
@@ -84,5 +84,5 @@ content-type: application/json
 
 # Delete a Contact
 ###
-DELETE https://lukecse341.onrender.com/contacts/64558e18632523d2e3a52dc1
+DELETE https://lukecse341.onrender.com/contacts/6456d88d8e52761e61252765 HTTP/1.1
 
